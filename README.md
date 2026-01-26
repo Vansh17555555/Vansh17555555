@@ -13,9 +13,7 @@ Currently obsessed with **distributed systems, Go, and background jobs**.
 🛠 **Distributed Task Orchestrator (Go)**  
 At-least-once execution · retries · delayed jobs · crash recovery  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="350"/>
-</p>
+
 
 ---
 
@@ -47,9 +45,7 @@ REST APIs · worker pools · retries · WebSockets · WebRTC · FAISS · real-ti
 📄 **VDocs**  
 👉 https://github.com/Vansh17555555/vdocs  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
-</p>
+
 
 ---
 
